@@ -27,5 +27,5 @@ Construyo sistemas ERP multi-industria, SaaS multi-tenant y APIs de alto rendimi
 ### 📫 Contáctame
 - **LinkedIn:** https://www.linkedin.com/in/otto-ren%C3%A9-ajanel-morales-18524015a/
 - **Youtube:** https://www.youtube.com/@OttoAjanel
-- **Email:** otto.ajanel@ejemplo.com
+- **Email:** ottonielajanel@gmail.com
 - **Ubicación:** Guatemala 🇬🇹
