@@ -1,16 +1,31 @@
-## Hi there 👋
+# ¡Hola! Soy Otto Ajanel 👋
 
-<!--
-**otto-ajanel/otto-ajanel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Fundador Técnico | Arquitecto de Software | Full Stack Developer
 
-Here are some ideas to get you started:
+Construyo sistemas ERP multi-industria, SaaS multi-tenant y APIs de alto rendimiento con **Go, Vue y PostgreSQL**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack Tecnológico
+
+**Backend:** Go (Fiber, GORM), Hyperf (PHP + Swoole), Rust (Axum), Nodejs, Laravel
+**Frontend:** Vue 3 (Composition API, PrimeVue, Tailwind CSS), Flutter, react
+**Bases de Datos:** PostgreSQL, Oracle, SLQSERVER
+**DevOps:** Docker, Nginx, Linux, Git
+
+### 📌 Proyectos Destacados
+
+#### 🏢 ERP Multi-Industria (SaaS)
+- **Backend:** Go Fiber + GORM + PostgreSQL
+- **Frontend:** Vue 3 + PrimeVue + Tailwind
+- **Características:** Multi-tenant (DB por empresa), Facturación FEL, Multi-sucursal, Contabilidad, Producción, Reparaciones, POS móvil.
+- **Estado:** En producción con clientes reales.
+
+#### 📱 App Móvil POS + Caja
+- **Tecnología:** Flutter
+- **Características:** Escaneo RFID, impresión en Sunmi, caja, inventario.
+- **Estado:** En producción.
+
+### 📫 Contáctame
+- **LinkedIn:** https://www.linkedin.com/in/otto-ren%C3%A9-ajanel-morales-18524015a/
+- **Youtube:** https://www.youtube.com/@OttoAjanel
+- **Email:** otto.ajanel@ejemplo.com
+- **Ubicación:** Guatemala 🇬🇹
